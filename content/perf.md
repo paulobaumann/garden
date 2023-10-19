@@ -1,6 +1,8 @@
 ---
 title: perf
 date: 2023-10-15
+tags: 
+- linux
 ---
 
 [`perf`](http://askubuntu.com/a/422151/275635) is a tool for analyzing kernel

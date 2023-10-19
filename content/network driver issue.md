@@ -1,6 +1,8 @@
 ---
 title: Network driver issue
 date: 2016-07-22
+tags: 
+- linux
 ---
 
 The processes `kworker` and `rsyslogd` were consuming a lot of CPU and flooding the files
