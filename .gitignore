@@ -8,6 +8,8 @@
 ### Quartz ###
 # config dir
 .quartz-cache
+node_modules
+public
 
 ### Vim ###
 # Swap
